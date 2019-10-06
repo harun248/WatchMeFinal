@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Favorite Me</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Acara Tv</string>
+
+
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="exit">Keluar</string>
+
+    <string name="no_connection">Silahkan periksalah koneksi anda</string>
+    <string name="null_favorite">Kamu tidak memiliki daftar favorit</string>
+    <string name="favorite">Favorit ditambah</string>
+    <string name="favorite_error">Favorit gagal</string>
+    <string name="unfavorite">Favorit dihapus</string>
+    <string name="item_favorite">Favorit</string>
+
+
+    <string name="overview">Ikhtisar</string>
+    <string name="not_found">Data tidak tersedia dalam bahasa ini.</string>
+
+</resources>

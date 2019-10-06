@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Watch Me</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Acara Tv</string>
+    <string name="tab_fav">Favorit</string>
+
+    <string name="search">Cari</string>
+    <string name="settings">Pengaturan</string>
+    <string name="exit">Keluar</string>
+
+    <string name="no_connection">Silahkan periksalah koneksi anda</string>
+    <string name="null_favorite">Kamu tidak memiliki daftar favorit</string>
+    <string name="favorite">Favorit ditambah</string>
+    <string name="favorite_error">Favorit gagal</string>
+    <string name="unfavorite">Favorit dihapus</string>
+    <string name="item_favorite">Favorit</string>
+    <string name="null_result">tidak ditemukan</string>
+    <string name="result">Hasil untuk : </string>
+
+    <string name="notification"> Pemberitahuan </string>
+    <string name="turn_on_off"> Matikan / Nyalakan Pemberitahuan </string>    
+    <string name="reminder_daily"> Pengingat Harian </string>
+    <string name="reminder_release">Pengingat Rilis </string>
+    <string name="language"> Bahasa </string>
+    <string name="change_language"> Ganti Bahasa </string>    
+    <string name="summary_change_language"> Ubah Bahasa Aplikasi Anda </string>
+
+    <string name="key_language">key_language</string>
+    <string name="key_daily">key_daily</string>
+    <string name="key_relase">key_release</string>
+
+    <string name="overview">Ikhtisar </string>
+    <string name="not_found">Data tidak dapat diterjemahkan dengan bahasa saat ini</string>
+
+
+    <string name="daily_reminder_title"> Selamat pagi! saatnya untuk Watch Me </string>
+    <string name="daily_reminder_message"> Mari kita lihat apa Film dan Acara TV yang baru di Watch Me </string>  
+    <string name="release_reminder_title"> Baru Saja Rilis Hari Ini !! </string>    
+    <string name="release_reminder_message"> Mari kita periksa ikhtisar dalam Watch Me </string>
+    <string name="daily_reminder_enable">Pengingat Harian dihidupkan</string>
+    <string name="daily_reminder_disable">Pengingat Harian dimatikan</string>
+    <string name="release_reminder_enable">Pengingat Rilis dihidupkan</string>
+    <string name="release_reminder_disable">Pengingat Rilis dimatikan</string>
+
+</resources>

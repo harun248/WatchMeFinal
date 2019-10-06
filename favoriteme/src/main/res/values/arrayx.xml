@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priview_color">
+        <item>#51FFFFFF</item>
+        <item>#000</item>
+        <item>#A6CFB702</item>
+        <item>#cfb702</item>
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Watch Me</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv">Tv Show</string>
+    <string name="tab_fav">Favorite</string>
+
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+
+    <string name="no_connection">Please Check Your Connection</string>
+    <string name="null_favorite">You don\'t have favorite list </string>
+    <string name="favorite">Favorite added</string>
+    <string name="favorite_error">Favorite failed</string>
+    <string name="unfavorite">Favorite deleted</string>
+    <string name="item_favorite">Favorited</string>
+    <string name="null_result">not found</string>
+    <string name="result">Result for : </string>
+
+
+    <string name="notification">Notification</string>
+    <string name="turn_on_off">Turn Off/On Notification</string>
+    <string name="reminder_daily">Daily Remainder</string>
+    <string name="reminder_release">Release Remainder</string>
+    <string name="language">Language</string>
+    <string name="change_language">Change Language</string>
+    <string name="summary_change_language">Change your Application Language</string>
+
+    <string name="key_language">key_language</string>
+    <string name="key_daily">key_daily</string>
+    <string name="key_relase">key_release</string>
+
+    <string name="overview">Overview </string>
+    <string name="not_found">Data is not avaible in this language.</string>
+
+
+    <string name="daily_reminder_title">Hi morning guys! it\'s time for Watch Me</string>
+    <string name="daily_reminder_message"> Let\'s see what new Films and TV Shows in the Watch Me </string>
+    <string name="release_reminder_title">Just Release Today !!</string>
+    <string name="release_reminder_message">Lets check overview in Watch Me</string>
+    <string name="daily_reminder_enable">Daily reminder turned on</string>
+    <string name="daily_reminder_disable">Daily reminder turned off</string>
+    <string name="release_reminder_enable">Release reminder turned on</string>
+    <string name="release_reminder_disable">Release reminder turned off</string>
+
+
+
+</resources>
